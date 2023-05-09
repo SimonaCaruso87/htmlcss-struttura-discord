@@ -33,12 +33,32 @@ body{
 */
 .container-logo{
     background-color: #ADD8E6;
-    height: 100px;
     display: flex;
+    height: 70px;
     justify-content: center;
+    align-items: center;
 }      
 
 .div-nav{
     background-color: #DAA520;
     height: 30px;
+    width: 100%;
+    display:flex;
+}
+
+.nav-small{
+    flex-grow: 1;
+}
+
+.nav-big{
+    flex-grow: 2;
+    text-align: center;
+}
+
+.nav-small{
+    text-align: right;
+}
+
+.nav-small:first-child{
+    text-align: left;
 }
