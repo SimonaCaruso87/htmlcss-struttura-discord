@@ -63,6 +63,9 @@ body{
     text-align: left;
 }
 
+.nav-small , .nav-big{
+       padding-top: 5px;
+}
 /*
       HEADER BACKGROUND
 */
@@ -81,6 +84,9 @@ body{
     display: flex;
     align-self: center;
 }
+/* 
+    MAIN section BACKGROUND BLUE BIG PINK SMALL
+*/
 
 .container-white1{
     background-color: white;
@@ -98,6 +104,10 @@ body{
     flex-grow:1;
     margin-left: 150px;
 
+/* 
+      MAIN SECTION BOX PINK 
+*/
+
 }
 .container-pink{
     background-color:#FFC0CB;
@@ -105,8 +115,13 @@ body{
     height: 80%;
     flex-grow:2;
     margin-right: 150px ;
-
 }
+
+/* 
+       MAIN SECTION BACKGROUNG PINK BIG BLUE SMALL 
+*/
+
+
 .container-white2{
     background-color: #D3D3D3;
     display: flex;
@@ -133,4 +148,23 @@ body{
 
 }
 
+/* 
+     MAIN SECTION GREEN 
+*/
 
+.container-green{
+    background-color: #D3D3D3;
+    width: 100%;
+    height: 600px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box-green{
+    background-color: #228B22;
+    width: 80%;
+    height: 90%;
+    
+}
