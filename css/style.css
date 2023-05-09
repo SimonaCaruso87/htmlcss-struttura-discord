@@ -27,3 +27,18 @@ body{
 .debug{
      border:2px dashed black;
 }
+
+/*
+      HEADER
+*/
+.container-logo{
+    background-color: #ADD8E6;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}      
+
+.div-nav{
+    background-color: #DAA520;
+    height: 30px;
+}
