@@ -29,7 +29,7 @@ body{
 }
 
 /*
-      HEADER
+      HEADER NAV
 */
 .container-logo{
     background-color: #ADD8E6;
@@ -42,7 +42,7 @@ body{
 .div-nav{
     background-color: #DAA520;
     height: 30px;
-    width: 100%;
+    width: 70%;
     display:flex;
 }
 
@@ -62,3 +62,23 @@ body{
 .nav-small:first-child{
     text-align: left;
 }
+
+/*
+      HEADER BACKGROUND
+*/
+.container-background{
+    background-color:#00008B;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.box-pink{
+    background-color:#EE82EE ;
+    width: 70%;
+    height: 180px;
+    display: flex;
+    align-self: center;
+}
+
