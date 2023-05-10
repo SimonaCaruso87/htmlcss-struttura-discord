@@ -28,6 +28,11 @@ body{
      border:2px dashed black;
 }
 
+.debug-white{
+    border:2px dashed white;
+}
+
+
 /*
       HEADER NAV
 */
@@ -67,7 +72,7 @@ body{
        padding-top: 5px;
 }
 /*
-      HEADER BACKGROUND
+      HEADER BOX PINK
 */
 .container-background{
     background-color:#00008B;
@@ -103,12 +108,8 @@ body{
     height: 80%;
     flex-grow:1;
     margin-left: 150px;
-
-/* 
-      MAIN SECTION BOX PINK 
-*/
-
 }
+
 .container-pink{
     background-color:#FFC0CB;
     width:100px;
@@ -167,4 +168,70 @@ body{
     width: 80%;
     height: 90%;
     
+}
+
+/* 
+     MAIN SECTION BLACK GREEN AND BLUE 
+*/
+
+.container-black{
+    background-color: #23272A;
+    width:100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container-darkpink{
+    background-color: #F08080;
+    height: 380px;
+    width: 20%;
+    margin-left: 10%;
+}
+.container-skyblue{
+    background-color: #20B2AA;
+    height: 380px;
+    width: 60%;
+    margin-right: 10%;
+    display: flex;
+
+}
+
+.skyblue1, .skyblue2, .skyblue3, .skyblue4{
+    height: 380px;
+    width: 25%;
+}
+
+/*
+    FOOTER
+*/
+
+.bottone{
+    background-color: #23272A;
+    width: 100%;
+    height: 100px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container-azzurro{
+    background-color: #7FFFD4;
+    height: 80%;
+    width: 875px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-footer, .bottone-footer{
+    background-color: #FFB6C1;
+    height: 40px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
