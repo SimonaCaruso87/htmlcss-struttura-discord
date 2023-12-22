@@ -1,14 +1,14 @@
 <p align="center">
-	<img src="./img/discord-struttura-1.png">
+	<img src="discord-struttura-1.png">
 </p>
 <p align="center">
-	<img src="./img/discord-struttura-2.png">
+	<img src="discord-struttura-2.png">
 </p>
 <p align="center">
-	<img src="./img/discord-struttura-3.png">
+	<img src="discord-struttura-3.png">
 </p>
 <p align="center">
-	<img src="./img/discord-struttura-4.png">
+	<img src="discord-struttura-4.png">
 </p>
 
 <h1 align="center">👋 Esercizio di oggi: Struttura Discord</h1>
