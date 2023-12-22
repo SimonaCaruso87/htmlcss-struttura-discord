@@ -1,6 +1,18 @@
-# template-html-css-base
-Ciao Ragazzi,
-Esercizio di oggi: Struttura Discord
+<p align="center">
+	<img src="./img/discord-struttura-1.png">
+</p>
+<p align="center">
+	<img src="./img/discord-struttura-2.png">
+</p>
+<p align="center">
+	<img src="./img/discord-struttura-3.png">
+</p>
+<p align="center">
+	<img src="./img/discord-struttura-4.png">
+</p>
+
+<h1 align="center">👋 Esercizio di oggi: Struttura Discord</h1>
+
 cartella/repo: htmlcss-struttura-discord
 Descrizione
 Riproduzione di un vero sito: Discord
